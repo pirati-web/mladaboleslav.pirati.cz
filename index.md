@@ -11,7 +11,7 @@ keywords: piráti, organizace, transparence, politika
 		<div class="small-8 columns">
 			<p>
 				Chceš se setkat s Piráty?<br/>
-				Je ti blízký pirátský program / ideje?<br/>
+				Je ti blízký pirátský program a ideje?<br/>
 				Máš kuráž a taky chceš transparentnější a modernější město, kraj a stát?<br/>
 				Zaujaly tě naše akce? Přidej se k nám!
 			</p>
